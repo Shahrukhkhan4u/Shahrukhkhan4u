@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahrukhkhan4u&label=Profile%20views&color=0e75b6&style=flat" alt="Shahrukhkhan4u" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jitendrama23861" target="blank"><img src="https://img.shields.io/twitter/follow/jitendrama23861?logo=twitter&style=for-the-badge" alt="jitendrama23861" /></a> </p>
+<p align="left"> <a href="https://x.com/shahrukhkh42846" target="blank"><img src="https://img.shields.io/twitter/follow/shahrukhkh42846?logo=twitter&style=for-the-badge" alt="shahrukhkh42846" /></a> </p>
 
 - 🌱 I’m currently learning *RestAPIs , Python , TypeScript*
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jitendrama23861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jitendrama23861" height="30" width="40" /></a>
+<a href="https://twitter.com/shahrukhkh42846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahrukhkh42846" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jitendra-makwana-447b31213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitendra-makwana-447b31213" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@Shahrukhkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@Shahrukhkhan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Shahrukhkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shahrukhkhan" height="30" width="40" /></a>
